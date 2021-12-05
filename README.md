@@ -1,2 +1,2 @@
 # webapp
-A lot of components , how make what you wanna build
+A lot of components , that make what you wanna build
